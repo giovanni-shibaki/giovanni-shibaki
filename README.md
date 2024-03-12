@@ -13,5 +13,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanni-shibaki&show_icons=true&locale=en&layout=compact" alt="giovanni-shibaki" /></p>
 
+<hr>
+<details>
+   <summary>:zap: <strong> Click here to see my Github Stats</strong> </summary>
+   <img align="left" alt="Giovanni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=giovanni-shibaki&show_icons=true&hide_border=true" />
+   <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-shibaki&language=compact&hide_border=true" />
+</details>
+
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanni-shibaki&show_icons=true&locale=en" alt="giovanni-shibaki" /></p>
 
